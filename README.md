@@ -65,3 +65,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/tuluquinha/tuluquinha/output/snake.svg" alt="Snake animation" />
+
+###
